@@ -6,7 +6,7 @@
 ##install
 --------
     
-    git clone xxx.git ~/jc_vim
+    git clone  https://github.com/jincaogg/jc_vim.git  ~/jc_vim
 
     git submodule init
 
@@ -18,10 +18,10 @@
 
 or 
 
-    wget xxxx.zip 
+    wget https://github.com/jincaogg/jc_vim/archive/master.zip  
 
-    unzip xxxx.zip
+    unzip master.zip
 
-    cp xxxx ~/.vim
+    cp master.zip ~/.vim
 
     ln -s ~/.vim/vimrc ~/.vimrc
